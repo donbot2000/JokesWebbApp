@@ -21,7 +21,7 @@ namespace ConsoleApp2
              
             double n =double.Parse(Console.ReadLine());
             Console.WriteLine(n);
-            Console.WriteLine("asd");
+            Console.WriteLine("asdasdasd");
              
 
         }
